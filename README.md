@@ -1,3 +1,4 @@
+⚠️ Questo è un progetto personale creato per scopi di apprendimento ed esplorazione delle tecnologie RAG, Streamlit e Ollama.
 # 🚀 RAG Streamlit App con Ollama
 
 Un'applicazione per il Recupero Aumentato con Generazione (RAG) su documenti PDF/DOCX, in locale grazie a Ollama, LangChain e ChromaDB.
