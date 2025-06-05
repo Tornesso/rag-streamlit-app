@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+gpt4all
+chromadb
+docx2txt
