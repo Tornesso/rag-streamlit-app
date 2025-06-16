@@ -1,5 +1,5 @@
-🇮🇹 [Leggi in Italiano](#rag-streamlit-app-con-ollama)  
-🇬🇧 [Read in English](#rag-streamlit-app-with-ollama)
+🇮🇹 [Leggi in Italiano](#-rag-streamlit-app-con-ollama)  
+🇬🇧 [Read in English](#-rag-streamlit-app-with-ollama)
 
 
 ## 🇬🇧 RAG Streamlit App with Ollama
